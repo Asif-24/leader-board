@@ -1,0 +1,72 @@
+body{
+    background-color:#F3F1FF;;
+}
+.logo{
+    width:40.42px;
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+    background-color: white;
+    border-radius: 10px;
+}
+.pa-sec{
+    padding: 30px;
+}
+.width{
+    max-width: 870px; 
+}
+.blog img{
+    width: 200px;
+}
+footer{
+    justify-content: center;
+}
+.container{
+    width: 890px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.card.h-100 {
+    padding: 10px;
+
+    width: 250px;
+    border: none;
+    box-shadow: 1px 0px 20px #00000012;
+    border-radius: 10px;
+    /* padding-bottom: 5px; */
+}
+.col-6 i{
+    font-size: 11px;
+    color: gold;
+}
+.watch{
+    font-size: 16px !important;
+}
+.bundil{
+    background-color: #FFE4E8;
+    border-radius: 50px;
+    padding: 5px 0;
+    text-align: center;
+}
+small.text-muted {
+    margin-left: 7px;
+    color: gray !important;
+}
+.text-muted {
+    color: #6c757d26!important;
+}
+h5.card-title {
+    font-weight: bold;
+}
+.card-body {
+    padding: 0px;
+    margin-top: 15px;
+}
+.last-row{
+    margin: 0;
+}
